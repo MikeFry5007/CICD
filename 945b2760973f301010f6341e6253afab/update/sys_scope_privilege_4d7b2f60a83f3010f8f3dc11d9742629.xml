@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege">
+    <sys_scope_privilege action="INSERT_OR_UPDATE">
+        <operation>execute</operation>
+        <source_scope display_value="Dev21">945b2760973f301010f6341e6253afab</source_scope>
+        <status>allowed</status>
+        <sys_class_name>sys_scope_privilege</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-10 15:53:04</sys_created_on>
+        <sys_id>4d7b2f60a83f3010f8f3dc11d9742629</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Glide API: properties</sys_name>
+        <sys_package display_value="Dev21" source="x_9010_dev21">945b2760973f301010f6341e6253afab</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Dev21">945b2760973f301010f6341e6253afab</sys_scope>
+        <sys_update_name>sys_scope_privilege_4d7b2f60a83f3010f8f3dc11d9742629</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-10 15:53:04</sys_updated_on>
+        <target_name>Glide API: properties</target_name>
+        <target_scope display_value="Global">global</target_scope>
+        <target_type>scriptable</target_type>
+    </sys_scope_privilege>
+</record_update>
